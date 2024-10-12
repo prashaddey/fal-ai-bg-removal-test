@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Upload, Image as ImageIcon } from 'lucide-react';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
